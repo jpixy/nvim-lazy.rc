@@ -1,6 +1,6 @@
 # nvim-lazy.rc
 
-NeoVim runtime configuration with Lazy
+NeoVim runtime configuration with Lazy and Lua
 
 ## Installation
 
