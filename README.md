@@ -6,5 +6,6 @@ NeoVim runtime configuration with Lazy
 ```
 mv ~/.config/nvim ~/.config/nvim.bak
 
-git clone https://github.com/ntk148v/neovim-config.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+git clone https://github.com/jpixy/nvim-lazy.rc "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+git clone https://gitee.com/jpixy/nvim-lazy.rc "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
