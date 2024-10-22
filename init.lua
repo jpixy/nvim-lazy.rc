@@ -1,7 +1,7 @@
+-- NOTE: the load order is important !!!
 require('options')
-require('keymaps')
 require('plugins')
+require('keymaps')
 require('colorscheme')
-require('config.nvim-cmp')
 require('lsp')
-
+require('config.nvim-cmp')
